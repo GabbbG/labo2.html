@@ -1,0 +1,25 @@
+body
+{
+    background-color: lightpink;
+}
+
+h1
+{
+    background-image:url("banniere.jpg");
+    background-position: top;
+    background-size: cover;
+    image-rendering: pixelated;
+    padding:32px;
+    text-align:center;
+    color:white;
+}
+
+p
+{
+    text-align:left
+}
+
+h4
+{
+    color: red;
+}
